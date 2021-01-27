@@ -1,16 +1,21 @@
-### Hi there 👋
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gbzarelli&repo=gbzarelli&countColorcountColor)
 
-<!--
-**gbzarelli/gbzarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there 👋</h1>
 
-Here are some ideas to get you started:
+I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Developer** with **Java, Kotlin, **Android** (native) and as a hobby I like to play with **Arduino**, family father, mountain biker, and always in search of knowledge.
+
+
+📫 How to reach me:
+- https://helpdev.com.br
+- https://www.linkedin.com/in/gbzarelli/
+- https://twitter.com/gbzarelli
+- https://medium.com/@guilherme.zarelli
+
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbzarelli&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=gbzarelli&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gbzarelli&hide_border=true)
