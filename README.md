@@ -4,7 +4,7 @@
 
 I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com).
 
-I'm **Developer** with **Java, Kotlin, **Android** (native) and as a hobby I like to play with **Arduino**, family father, mountain biker, and always in search of knowledge.
+I'm **Developer** with **Java, Kotlin, Android** (native) and as a hobby I like to play with **Arduino**, family father, mountain biker, and always in search of knowledge.
 
 
 📫 How to reach me:
