@@ -22,7 +22,7 @@ I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com) and I'm always i
 - [gbzarelli/VelocimetroAlertaBLModule](https://github.com/gbzarelli/VelocimetroAlertaBLModule) - Hardware module building in Arduindo to use with my [Speedometer Alert]((https://github.com/gbzarelli/VelocimetroAlerta))
 - [gbzarelli/githubers](https://github.com/gbzarelli/githubers) - Used to know new reactive features in Android (outdated)
 - [gbzarelli/hangman-python](https://github.com/gbzarelli/hangman-python) - Hangman Game in Python, created to learn
-- [gbzarelli/quaklog-api](https://github.com/gbzarelli/quaklog-api) - Luizalabs challenge created with an [simplify Clean Architecture]((https://medium.com/luizalabs/descomplicando-a-clean-architecture-cf4dfc4a1ac6))
+- [gbzarelli/quaklog-api](https://github.com/gbzarelli/quaklog-api) - Luizalabs challenge created with an [simplify Clean Architecture](https://medium.com/luizalabs/descomplicando-a-clean-architecture-cf4dfc4a1ac6)
 - [gbzarelli/kart-race-importer](https://github.com/gbzarelli/kart-race-importer) - Gympass challenge created without frameworks in Java
 - [gbzarelli/fsm-devpira-2020](https://github.com/gbzarelli/fsm-devpira-2020) - Used to presentation about [Finite State Machine](https://medium.com/luizalabs/controlando-transa%C3%A7%C3%B5es-de-status-com-finite-state-machine-7f47b906174a) in DevPira 2020 (Python Samples)
 - [gbzarelli/events-distribution-platform](https://github.com/gbzarelli/events-distribution-platform) - Architecture POC to Event Drive and Webhook
