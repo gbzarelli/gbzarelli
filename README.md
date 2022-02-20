@@ -18,7 +18,7 @@ I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com) and I'm always i
 #### 👨‍💻 My favorite repositories I created
 - [helpdeveloper/java-modular-architecture](https://github.com/helpdeveloper/java-modular-architecture) - Modular architecture with Java, base for some articles ([About Architecture](https://medium.com/luizalabs/criando-uma-aplica%C3%A7%C3%A3o-modular-muito-al%C3%A9m-do-clean-architecture-5dde3687c5d6), [About tests](https://medium.com/luizalabs/separando-os-testes-integrados-de-sua-aplica%C3%A7%C3%A3o-em-um-novo-conceito-4f511ebb53a4))
 - [gbzarelli/gophertalk](https://github.com/gbzarelli/gophertalk) - Multi-user chat in GO, created to learn
-- [bzarelli/VelocimetroAlert](https://github.com/gbzarelli/VelocimetroAlerta) - An app to use when I ride my bike with precisely measures
+- [gbzarelli/VelocimetroAlert](https://github.com/gbzarelli/VelocimetroAlerta) - An app to use when I ride my bike with precisely measures
 - [gbzarelli/VelocimetroAlertaBLModule](https://github.com/gbzarelli/VelocimetroAlertaBLModule) - Hardware module building in Arduindo to use with my [Speedometer Alert]((https://github.com/gbzarelli/VelocimetroAlerta))
 - [gbzarelli/githubers](https://github.com/gbzarelli/githubers) - Used to know new reactive features in Android (outdated)
 - [gbzarelli/hangman-python](https://github.com/gbzarelli/hangman-python) - Hangman Game in Python, created to learn
