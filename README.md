@@ -26,6 +26,7 @@ I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com) and I'm always i
 - [helpdeveloper/java-modular-architecture](https://github.com/helpdeveloper/java-modular-architecture) - Modular architecture with Java, base for some articles ([About Architecture](https://medium.com/luizalabs/criando-uma-aplica%C3%A7%C3%A3o-modular-muito-al%C3%A9m-do-clean-architecture-5dde3687c5d6), [About tests](https://medium.com/luizalabs/separando-os-testes-integrados-de-sua-aplica%C3%A7%C3%A3o-em-um-novo-conceito-4f511ebb53a4))
 - [gbzarelli/quaklog-api](https://github.com/gbzarelli/quaklog-api) - Luizalabs challenge and created with an [simplify Clean Architecture](https://medium.com/luizalabs/descomplicando-a-clean-architecture-cf4dfc4a1ac6) article.
 - [gbzarelli/fsm-devpira-2020](https://github.com/gbzarelli/fsm-devpira-2020) - Used to presentation about [Finite State Machine](https://medium.com/luizalabs/controlando-transa%C3%A7%C3%B5es-de-status-com-finite-state-machine-7f47b906174a) in DevPira 2020 (Python Samples)
+- [helpdeveloper/java-observability-metrics](https://github.com/helpdeveloper/java-observability-metrics) - Used to presentation about [Observability with Metrics](https://medium.com/luizalabs/observabilidade-monitorando-sua-aplicacao-a-partir-de-metricas-bd1b2d0ba1f8)
 
 ###### Created to Learn
 - [gbzarelli/gophertalk](https://github.com/gbzarelli/gophertalk) - Multi-user chat in GO
