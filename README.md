@@ -50,7 +50,7 @@ I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com) and I'm always i
 - [Criando uma aplicação modular muito além do Clean Architecture](https://medium.com/luizalabs/criando-uma-aplica%C3%A7%C3%A3o-modular-muito-al%C3%A9m-do-clean-architecture-5dde3687c5d6)
 - [Refatoração, a maneira mais eficiente de manter seu código limpo.](https://medium.com/luizalabs/refatora%C3%A7%C3%A3o-a-maneira-mais-eficiente-de-manter-seu-c%C3%B3digo-limpo-3f6439da90db)
 - [Separando os testes integrados de sua aplicação em um novo conceito](https://medium.com/luizalabs/separando-os-testes-integrados-de-sua-aplica%C3%A7%C3%A3o-em-um-novo-conceito-4f511ebb53a4)
-- [Observabilidade: Monitorando sua aplicação a partir de métricas](https://medium.com/luizalabs/observabilidade-monitorando-sua-aplicacao-a-partir-de-metricas-bd1b2d0ba1f8_
+- [Observabilidade: Monitorando sua aplicação a partir de métricas](https://medium.com/@guilherme.zarelli/observabilidade-monitorando-sua-aplicacao-a-partir-de-metricas-bd1b2d0ba1f8)
 
 #### 📫 How to reach me:
 - https://helpdev.com.br
