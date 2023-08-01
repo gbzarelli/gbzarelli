@@ -4,7 +4,7 @@
 
 I'm Guilherme, but you can call me Biff, I'm **Software Developer**, family father and mountain biker.
 
-I work as a **Tech Lead** at [LuizaLabs](https://luizalabs.com) and I'm always in search of knowledge.
+I work as a **Software Developer Specialist / Staff Enginier** at [**PicPay**](https://picpay.com) and I'm always in search of knowledge.
 
 #### 👨‍💻 Languages I know or have known
 
