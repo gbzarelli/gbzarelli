@@ -13,7 +13,6 @@ I work as a **Software Developer Specialist / Staff Enginier** at [**PicPay**](h
 - **Python** (Used to simplify scripts)
 - **C** (IOT/Arduino hobby)
 - **GO** (For knowledge of other paradigms)
-- **Clojure** (For knowledge of other paradigms)
 
 #### 📚 Written articles - 🇧🇷
 
@@ -41,18 +40,18 @@ I work as a **Software Developer Specialist / Staff Enginier** at [**PicPay**](h
 - [gbzarelli/fsm-devpira-2020](https://github.com/gbzarelli/fsm-devpira-2020) - Used to presentation about [Finite State Machine](https://medium.com/luizalabs/controlando-transa%C3%A7%C3%B5es-de-status-com-finite-state-machine-7f47b906174a) in DevPira 2020 (Python Samples)
 - [helpdeveloper/java-observability-metrics](https://github.com/helpdeveloper/java-observability-metrics) - Used to presentation about [Observability with Metrics](https://medium.com/luizalabs/observabilidade-monitorando-sua-aplicacao-a-partir-de-metricas-bd1b2d0ba1f8)
 
+###### Created for own use and sharing
+- [gbzarelli/VelocimetroAlert](https://github.com/gbzarelli/VelocimetroAlerta) - An app to use when I ride my bike with precisely measures
+- [gbzarelli/LapsCounter](https://github.com/gbzarelli/LapsCounter) - Application for timing and counting laps in swimming/running/cycling.
+- [gbzarelli/VelocimetroAlertaBLModule](https://github.com/gbzarelli/VelocimetroAlertaBLModule) - Hardware module building in Arduindo to use with my [Speedometer Alert]((https://github.com/gbzarelli/VelocimetroAlerta))
+- [gbzarelli/wg-brew-plus](https://github.com/gbzarelli/wg-brew-plus) - The project automates the mashing and boiling process of the craft beer manufacturing stages.
+
 ###### Created to Learn
 - [gbzarelli/gophertalk](https://github.com/gbzarelli/gophertalk) - Multi-user chat in GO
 - [gbzarelli/githubers](https://github.com/gbzarelli/githubers) - Used to know new reactive features in Android (outdated)
 - [gbzarelli/hangman-python](https://github.com/gbzarelli/hangman-python) - Hangman Game in Python
 - [gbzarelli/clj-blackjack](https://github.com/gbzarelli/clj-blackjack) - Blackjack game in Clojure
 - [gbzarelli/events-distribution-platform](https://github.com/gbzarelli/events-distribution-platform) - Architecture POC to Event Drive and Webhook
-
-###### Created for own use and sharing
-- [gbzarelli/VelocimetroAlert](https://github.com/gbzarelli/VelocimetroAlerta) - An app to use when I ride my bike with precisely measures
-- [gbzarelli/LapsCounter](https://github.com/gbzarelli/LapsCounter) - Application for timing and counting laps in swimming/running/cycling.
-- [gbzarelli/VelocimetroAlertaBLModule](https://github.com/gbzarelli/VelocimetroAlertaBLModule) - Hardware module building in Arduindo to use with my [Speedometer Alert]((https://github.com/gbzarelli/VelocimetroAlerta))
-- [gbzarelli/wg-brew-plus](https://github.com/gbzarelli/wg-brew-plus) - The project automates the mashing and boiling process of the craft beer manufacturing stages.
 
 #### 📫 How to reach me:
 - https://helpdev.com.br
