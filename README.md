@@ -54,11 +54,12 @@ I work as a **Software Developer Specialist / Staff Enginier** at [**PicPay**](h
 - [gbzarelli/events-distribution-platform](https://github.com/gbzarelli/events-distribution-platform) - Architecture POC to Event Drive and Webhook
 
 #### 📫 How to reach me:
+
 - https://helpdev.com.br
 - https://www.linkedin.com/in/gbzarelli/
 - https://twitter.com/gbzarelli
 - https://medium.com/@guilherme.zarelli
-
+- gbzarelli@helpdev.com.br
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=gbzarelli&count_private=true&show_icons=true)
 
