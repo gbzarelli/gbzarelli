@@ -2,9 +2,19 @@
 
 <h1>Hi there 👋</h1>
 
-I'm Guilherme, but you can call me Biff, I'm **Software Developer**, family father and mountain biker.
+I am a seasoned professional with extensive experience in software development and technical leadership, working on strategic projects for large-scale companies in the technology sector. With over a decade of expertise, I began my career as a Java developer in 2011, focusing on mobile development with **J2ME** and maintaining back-end applications. My professional growth led me to **Android** development and eventually to a senior developer role, mastering technologies like **Java, Kotlin**, and modern architectures.
 
-I work as a **Software Developer Specialist / Staff Enginier** at [**PicPay**](https://picpay.com) and I'm always in search of knowledge.
+Throughout my journey, I have had the opportunity to lead teams and influence strategic decisions, with key highlights including:
+
+- **Technical Leadership**: As Tech Lead in the logistics vertical at Magazine Luiza, supporting squads in defining architectures, establishing patterns, and creating solutions that simplify development. Additionally, I contributed to complex cloud migration processes, including transitions between AWS, GCP, and MagaluCloud.
+- **Development and Automation**: As a Back-End developer, I built and maintained critical systems, focusing on the automation and modernization of legacy systems, directly improving customer experience and operational efficiency.
+- **Infrastructure Optimization**: Participated in cost-reduction and performance optimization projects, aligning infrastructure with sustainable business growth.
+
+Currently, as a **Staff Software Engineer** in the Corporate Financial Services unit at **PicPay**, I hold a strategic and technical role, leading **architectural decisions** and **driving scalable**, **resilient solutions**. With a focus on transaction capture in the Acquiring sector, I leverage technologies like **Spring Boot, RabbitMQ, Docker, AWS, etc**, combined with observability tools like **Grafana** and **Prometheus**, to ensure **high performance and stability**.
+
+Beyond technical development, **I am committed to knowledge sharing by creating presentations and disseminating best practices**, fostering consistency and excellence in team deliveries.
+
+I am **always seeking challenges** that allow me to grow professionally and contribute to the success of the projects I engage with.
 
 #### 👨‍💻 Languages I know or have known
 
