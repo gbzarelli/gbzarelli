@@ -48,6 +48,8 @@ I am **always seeking challenges** that allow me to grow professionally and cont
 
 - [Decisões Arquiteturais: Registro e Sustentabilidade na Evolução de Sistemas](https://medium.com/inside-picpay/decis%C3%B5es-arquiteturais-registro-e-sustentabilidade-na-evolu%C3%A7%C3%A3o-de-sistemas-72eca5e32be1)
 
+- [Otimização da JVM para Contêineres: Memória e Garbage Collection](https://medium.com/inside-picpay/otimiza%C3%A7%C3%A3o-da-jvm-para-cont%C3%AAineres-mem%C3%B3ria-e-garbage-collection-c9b640fa4219)
+
 #### 👨‍💻 My favorite repositories I created
 
 ###### Libraries for community
